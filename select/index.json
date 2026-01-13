@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "MoonWalker",
+  "base_artist": "yama",
+  "createdAt": "2026-01-13T18:39:03.359016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Moonwalker",
+      "artist": "Safri Duo",
+      "has_synced": true,
+      "path": "select/01_The_Moonwalker_Safri_Duo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Need You Now (Moonwalker Version)",
+      "artist": "Agnes",
+      "has_synced": false,
+      "path": "select/02_I_Need_You_Now_(Moonwalker_Version)_Agnes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MoonWalker",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/03_MoonWalker_yama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MoonWalker",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/04_MoonWalker_yama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moonwalker",
+      "artist": "Orianthi",
+      "has_synced": true,
+      "path": "select/05_Moonwalker_Orianthi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Another Part of Me (Guitar Opera) [from \"Moonwalker\"]",
+      "artist": "Megadriver",
+      "has_synced": true,
+      "path": "select/06_Another_Part_of_Me_(Guitar_Opera)_[from__Moonwalker_]_Megadriver.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Another Part Of Me (Michael Jackson's Moonwalker)",
+      "artist": "MegaDriver",
+      "has_synced": true,
+      "path": "select/07_Another_Part_Of_Me_(Michael_Jackson's_Moonwalker)_MegaDriver.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eastside Moonwalker",
+      "artist": "Freddie Gibbs",
+      "has_synced": true,
+      "path": "select/08_Eastside_Moonwalker_Freddie_Gibbs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eastside Moonwalker",
+      "artist": "Freddie Gibbs",
+      "has_synced": true,
+      "path": "select/09_Eastside_Moonwalker_Freddie_Gibbs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MOONWALKER",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/10_MOONWALKER_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moonwalker",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/11_Moonwalker_Epik_High.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moonwalker",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/12_Moonwalker_Epik_High.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MoonWalker",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_MoonWalker_yama.txt"
+    }
+  ]
+}
